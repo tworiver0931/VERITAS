@@ -5,7 +5,7 @@ Crawls a given news article page, automatically analyzes it using various tools,
 
 
 # Architecture
-<img src = "https://github.com/tworiver0931/VERITAS/assets/63793194/09c4de98-25a2-48f2-a727-08a8844739b3" width="50%">
+<img src = "https://github.com/tworiver0931/VERITAS/assets/63793194/09c4de98-25a2-48f2-a727-08a8844739b3" width="40%">
 
 
 
